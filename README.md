@@ -14,8 +14,9 @@ The code also includes visualization, edge test cases, generation of test cases 
 
 ### Requirements 
 You will need sortedcontainers Python package to run the code.
-    ```bash
-    pip install sortedcontainers
+```bash
+pip install sortedcontainers
+```
 
 I am using SortedDict from sortedcontainers for this assignmnet. 
 This is a dictionary-like data structure that maintains its keys in sorted order. It offers similar functionality to Python's built-in dictionary, but with the added benefit of keeping keys sorted. 
